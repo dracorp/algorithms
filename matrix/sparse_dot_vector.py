@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Suppose we have very large sparse vectors, which contains a lot of zeros and double .
 

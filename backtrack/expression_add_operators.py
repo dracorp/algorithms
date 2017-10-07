@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given a string that contains only digits 0-9 and a target value,
 return all possibilities to add binary operators (not unary) +, -, or *

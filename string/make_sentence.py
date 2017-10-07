@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 For a given string and dictionary, how many sentences can you make from the
 string, such that all the words are contained in the dictionary.

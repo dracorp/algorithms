@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 def wiggle_sort(nums):
     for i in range(len(nums)):

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 class TreeNode:
     def __init__(self, val=0):
         self.val = val

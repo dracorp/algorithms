@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # a -> Adam -> Book -> 4
 # b -> Bill -> Computer -> 5
           # -> TV -> 6

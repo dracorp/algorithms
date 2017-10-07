@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given a collection of intervals, merge all overlapping intervals.
 

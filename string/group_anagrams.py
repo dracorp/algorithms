@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given an array of strings, group anagrams together.
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #
 # Search a key in a row wise and column wise sorted (non-decreasing) matrix.
 # m- Number of rows in the matrix

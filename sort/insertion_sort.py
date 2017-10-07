@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def insertion_sort(arr):
     """ Insertion Sort
         Complexity: O(n^2)

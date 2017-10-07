@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def gcd(a, b):
     """Computes the greatest common divisor of integers a and b using
     Euclid's Algorithm.

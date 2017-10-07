@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Given a collection of distinct numbers, return all possible permutations.
 
 # For example,

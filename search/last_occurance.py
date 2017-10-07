@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #
 # Find last occurance of a number in a sorted array (increasing order)
 # Approach- Binary Search

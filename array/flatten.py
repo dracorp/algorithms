@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Implement Flatten Arrays.
 Given an array that may contain nested arrays,

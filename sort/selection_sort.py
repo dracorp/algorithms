@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 def selection_sort(arr):
     """ Selection Sort

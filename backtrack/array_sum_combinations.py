@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 WAP to take one element from each of the array add it to the target sum. Print all those three-element combinations.
 

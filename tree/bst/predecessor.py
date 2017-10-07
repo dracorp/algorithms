@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def predecessor(root, node):
     pred = None
     while root:

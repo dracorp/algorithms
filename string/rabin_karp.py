@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Following program is the python implementation of
 # Rabin Karp Algorithm
 

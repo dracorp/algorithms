@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 given input word, return the list of abbreviations.
 ex)

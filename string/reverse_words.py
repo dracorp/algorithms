@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 def reverse(array, i, j):
     while i < j:

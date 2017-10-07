@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given two words (beginWord and endWord), and a dictionary's word list,
 find the length of shortest transformation sequence

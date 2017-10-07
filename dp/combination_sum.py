@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given an integer array with all positive numbers and no duplicates,
 find the number of possible combinations that

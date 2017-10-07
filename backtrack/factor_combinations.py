@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Numbers can be regarded as product of its factors. For example,
 

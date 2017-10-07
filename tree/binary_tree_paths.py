@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def binaryTreePaths(root):
     res = []
     if not root:

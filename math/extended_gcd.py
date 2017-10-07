@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 extended GCD algorithm
 return s,t,g

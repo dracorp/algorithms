@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 maximum = float("-inf")
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Implement a trie with insert, search, and startsWith methods.
 

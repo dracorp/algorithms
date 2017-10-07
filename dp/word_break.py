@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given a non-empty string s and a dictionary wordDict
 containing a list of non-empty words,

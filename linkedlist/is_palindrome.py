@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def is_palindrome(head):
     if not head:
         return True

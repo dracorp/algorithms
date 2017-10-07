@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Contributed by izanbf1803.
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 graph = {'A': set(['B', 'C', 'F']),
          'B': set(['A', 'D', 'E']),
          'C': set(['A', 'F']),

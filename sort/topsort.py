@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given a list of system packages,
 some packages cannot be installed until the other packages are installed.

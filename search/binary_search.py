@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #
 # Binary search works for a sorted array.
 # Note: The code logic is written for an array sorted in

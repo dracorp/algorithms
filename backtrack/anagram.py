@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def all_perms(elements):
     if len(elements) <=1:
         yield elements

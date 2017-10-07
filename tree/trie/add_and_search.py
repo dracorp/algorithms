@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 We are asked to design an efficient data structure
 that allows us to add and search for words.

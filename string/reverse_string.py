@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def recursive(s):
     l = len(s)
     if l < 2:

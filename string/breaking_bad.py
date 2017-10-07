@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given an api which returns an array of chemical names and an array of chemical
 symbols, display the chemical names with their symbol surrounded by square

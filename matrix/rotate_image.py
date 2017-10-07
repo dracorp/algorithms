@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 You are given an n x n 2D mat representing an image.
 

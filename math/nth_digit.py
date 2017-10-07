@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 find nth digit
 1. find the length of the number where the nth digit is from.

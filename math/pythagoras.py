@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 input two of the three side in right angled triangle and return the third. use "?" to indicate the unknown side. 
 """

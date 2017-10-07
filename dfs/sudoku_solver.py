@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 It's similar to how human solve Sudoku.
 

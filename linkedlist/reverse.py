@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Reverse a singly linked list.
 """

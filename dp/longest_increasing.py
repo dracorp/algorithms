@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 
 def longest_increasing_subsequence(sequence):

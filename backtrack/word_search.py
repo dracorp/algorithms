@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import unittest
 '''
 Given a matrix of words and a list of words to search, return a list of words that exists in the board

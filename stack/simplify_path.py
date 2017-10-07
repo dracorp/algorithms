@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given an absolute path for a file (Unix-style), simplify it.
 

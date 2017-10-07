@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given two sparse matrices A and B, return the result of AB.
 

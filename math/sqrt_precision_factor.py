@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given a positive integer N and a precision factor P,
 write a square root function that produce an output

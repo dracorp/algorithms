@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Rotate an array of n elements to the right by k steps.
 

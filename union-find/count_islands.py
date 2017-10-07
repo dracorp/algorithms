@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 A 2d grid map of m rows and n columns is initially filled with water.
 We may perform an addLand operation which turns the water at position

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 RSA encryption algorithm
 a method for encrypting a number that uses seperate encryption and decryption keys

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Given a collection of numbers that might contain duplicates,
 # return all possible unique permutations.
 

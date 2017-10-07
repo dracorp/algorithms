@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 '''
 Using sieve of Eratosthenes, primes(x) returns list of all primes less than x
 

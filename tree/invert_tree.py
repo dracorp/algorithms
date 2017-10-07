@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # invert a binary tree
 
 def reverse(root):

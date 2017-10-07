@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import random,sys
 
 # factor n into a power of 2 times an odd number

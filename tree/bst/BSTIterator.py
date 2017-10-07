@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 class BSTIterator:
     def __init__(self, root):

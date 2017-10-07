@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 myGraph = {'A': ['B', 'C'],
          'B': ['C', 'D'],
          'C': ['D', 'F'],

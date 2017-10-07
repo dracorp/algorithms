@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Queue Abstract Data Type (ADT)
 # * Queue() creates a new queue that is empty.
 #   It needs no parameters and returns an empty queue.

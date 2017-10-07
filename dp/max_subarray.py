@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 def max_subarray(array):
     max_so_far = max_now = array[0]

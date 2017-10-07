@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def merge_sort(arr):
     """ Merge Sort
         Complexity: O(n log(n))

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Numbers can be regarded as product of its factors. For example,
 8 = 2 x 2 x 2;

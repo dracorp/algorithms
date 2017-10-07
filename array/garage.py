@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # There is a parking lot with only one empty spot. Given the initial state
 # of the parking lot and the final state. Each step we are only allowed to
 # move a car

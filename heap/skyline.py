@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 A city's skyline is the outer contour of the silhouette formed by all the buildings
 in that city when viewed from a distance.

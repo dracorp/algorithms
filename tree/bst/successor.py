@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def successor(root, node):
     succ = None
     while root:

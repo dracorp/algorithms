@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Given two binary trees s and t, check if t is a subtree of s.
 # A subtree of a tree t is a tree consisting of a node in t and
 # all of its descendants in t.

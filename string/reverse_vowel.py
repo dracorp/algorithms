@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 def reverse_vowel(s):
     vowels = "AEIOUaeiou"

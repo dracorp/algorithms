@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given a string containing just the characters
 '(', ')', '{', '}', '[' and ']',

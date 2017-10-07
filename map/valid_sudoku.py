@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.
 

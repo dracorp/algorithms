@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 def license_number(key, K):
     res, alnum = [], []

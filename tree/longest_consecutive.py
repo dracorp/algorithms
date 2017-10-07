@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Given a binary tree, find the length of the longest consecutive sequence path.
 
 # The path refers to any sequence of nodes from some starting node to any node

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given a sorted integer array without duplicates,
 return the summary of its ranges.

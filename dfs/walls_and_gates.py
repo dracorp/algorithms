@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 
 # fill the empty room with distance to its nearest gate

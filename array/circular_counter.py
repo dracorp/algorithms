@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 There are people sitting in a circular fashion,
 print every third member while removing them,

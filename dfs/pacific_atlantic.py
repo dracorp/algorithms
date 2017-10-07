@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Given an m x n matrix of non-negative integers representing
 # the height of each unit cell in a continent,
 # the "Pacific ocean" touches the left and top edges of the matrix

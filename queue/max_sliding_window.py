@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import collections
 
 # Keep indexes of good candidates in deque d.

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 '''
 prime_test(n) returns a True if n is a prime number else it returns False
 '''

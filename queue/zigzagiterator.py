@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 class ZigZagIterator:
     def __init__(self, v1, v2):
         """

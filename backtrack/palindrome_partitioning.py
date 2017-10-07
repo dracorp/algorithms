@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # It looks like you need to be looking not for all palindromic substrings, but rather for all the ways you can divide the input string up into palindromic substrings. (There's always at least one way, since one-character substrings are always palindromes.)
 
 # Here's the way I've done it:

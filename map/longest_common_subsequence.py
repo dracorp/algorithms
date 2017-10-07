@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given string a and b, with b containing all distinct characters,
 find the longest common subsequence's
