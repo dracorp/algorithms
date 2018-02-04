@@ -1,3 +1,5 @@
+English | [简体中文](https://github.com/yunshuipiao/algorithms/blob/master/README_CN.md)
+
 Pythonic Data Structures and Algorithms
 =========================================
 
@@ -131,6 +133,7 @@ Minimal and clean example implementations of data structures and algorithms in P
     - [last_occurance](search/last_occurance.py)
 - [set](set)
     - [randomized_set](set/randomized_set.py)
+    - [set_covering](set/set_covering.py)
 - [sort](sort)
     - [bubble_sort](sort/bubble_sort.py)
     - [comb_sort](sort/comb_sort.py)
