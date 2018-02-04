@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given a directed graph, check whether it contains a cycle.
 
@@ -27,7 +28,7 @@ example_graph_without_cycle = {'A': ['B', 'C'],
                                'D': ['E'],
                                'E': [],
                                'F': []}
-                               
+
 
 def is_in_cycle(graph, traversal_states, vertex):
     if traversal_states[vertex] == TraversalState.GRAY:

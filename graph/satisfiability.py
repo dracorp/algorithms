@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 '''
 Given a formula in conjunctive normal form (2-CNF), finds a way to assign
 True/False values to all variables to satisfy all clauses, or reports there

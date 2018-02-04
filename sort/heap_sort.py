@@ -1,15 +1,16 @@
+#!/usr/bin/env python
 def max_heap_sort(arr):
     """ Heap Sort that uses a max heap to sort an array in ascending order
         Complexity: O(n log(n))
     """
     for i in range(len(arr)-1,0,-1):
         max_heapify(arr, i)
-        
+
         temp = arr[0]
         arr[0] = arr[i]
         arr[i] = temp
 
-	
+
 def max_heapify(arr, end):
     """ Max heapify helper for max_heap_sort
     """
@@ -36,7 +37,7 @@ def max_heapify(arr, end):
             # If no swap occured, no need to keep iterating
             else:
                 break
-		
+
 
 def min_heap_sort(arr):
     """ Heap Sort that uses a min heap to sort an array in ascending order
@@ -44,7 +45,7 @@ def min_heap_sort(arr):
     """
     for i in range(0, len(arr)-1):
         min_heapify(arr, i)
-	
+
 
 def min_heapify(arr, start):
     """ Min heapify helper for min_heap_sort

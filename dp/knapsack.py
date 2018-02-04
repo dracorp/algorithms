@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Given the capacity of the knapsack and items specified by weights and values,
 return the maximum summarized value of the items that can be fit in the

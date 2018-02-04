@@ -1,6 +1,7 @@
+#!/usr/bin/env python
 # Minimum spanning tree (MST) is going to use an undirected graph
 #
-# The disjoint set is represented with an list <n> of integers where 
+# The disjoint set is represented with an list <n> of integers where
 # <n[i]> is the parent of the node at position <i>.
 # If <n[i]> = <i>, <i> it's a root, or a head, of a set
 
@@ -40,8 +41,8 @@ class DisjointSet:
             self.size[a] += self.size[b] # Add size of old set(b) to set(a)
 
     def findSet(self, a):
-        if self.parent[a] != a: 
-            # Very important, memoize result of the 
+        if self.parent[a] != a:
+            # Very important, memoize result of the
             # recursion in the list to optimize next
             # calls and make this operation practically constant, O(1)
             self.parent[a] = self.findSet(self.parent[a])
@@ -56,7 +57,7 @@ def kruskal(n, edges, ds):
     #   edges (list of Edge): Edges of the graph
     #   ds (DisjointSet): DisjointSet of the vertices
     # Returns:
-    #   int: sum of weights of the minnimum spanning tree 
+    #   int: sum of weights of the minnimum spanning tree
     #
     # Kruskal algorithm:
     #   This algorithm will find the optimal graph with less edges and less
@@ -78,8 +79,8 @@ def kruskal(n, edges, ds):
         if set_u != set_v:
             ds.mergeSet(set_u, set_v)
             mst.append(edge)
-            if len(mst) == n-1: 
-                # If we have selected n-1 edges, all the other 
+            if len(mst) == n-1:
+                # If we have selected n-1 edges, all the other
                 # edges will be discarted, so, we can stop here
                 break
 
@@ -90,8 +91,8 @@ def kruskal(n, edges, ds):
 
 if __name__ == "__main__":
     # Test. How input works:
-    # Input consists of different weighted, connected, undirected graphs. 
-    # line 1: 
+    # Input consists of different weighted, connected, undirected graphs.
+    # line 1:
     #   integers n, m
     # lines 2..m+2:
     #   edge with the format -> node index u, node index v, integer weight
@@ -105,7 +106,7 @@ if __name__ == "__main__":
     # 3 4 2
     # 3 5 4
     # 4 5 6
-    # 
+    #
     # 3 3
     # 2 1 20
     # 3 1 20

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # takes dict of sets
 # each key is a vertex
 # value is set of all edges connected to vertex

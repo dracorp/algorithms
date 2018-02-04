@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def rotate_clockwise(matrix):
     new = []
     for row in reversed(matrix):

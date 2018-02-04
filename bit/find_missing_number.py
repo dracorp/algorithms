@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def find_missing_number(nums):
     """Returns the missing number from a sequence of unique integers
     in range [0..n] in O(n) time and space. The difference between
